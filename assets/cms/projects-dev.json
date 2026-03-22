@@ -1,0 +1,1748 @@
+[
+    {
+        "id": "f550a2f7-b7f2-497a-8c23-",
+        "name": "Agencyds",
+        "slug": "agencyds",
+        "description": "Proje Linki: https://agencyds.com\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "d5cfffb7-ba87-4cbd-afde-",
+            "prefix": "media",
+            "filename": "agencyds.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 557944,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 4650,
+                    "filename": "agencyds-200x100.jpg",
+                    "url": "assets/media/agencyds-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 11824,
+                    "filename": "agencyds-400x200.jpg",
+                    "url": "assets/media/agencyds-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 22965,
+                    "filename": "agencyds-600x300.jpg",
+                    "url": "assets/media/agencyds-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 48966,
+                    "filename": "agencyds-1024x512.jpg",
+                    "url": "assets/media/agencyds-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 69164,
+                    "filename": "agencyds-1280x640.jpg",
+                    "url": "assets/media/agencyds-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 95940,
+                    "filename": "agencyds-1600x800.jpg",
+                    "url": "assets/media/agencyds-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 133489,
+                    "filename": "agencyds-2000x1000.jpg",
+                    "url": "assets/media/agencyds-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 13772,
+                    "filename": "agencyds-400x300.jpg",
+                    "url": "assets/media/agencyds-400x300.jpg"
+                }
+            },
+            "url": "assets/media/agencyds.jpg"
+        },
+        "video": {
+            "id": "d00f9f87-e021-4cdc-ba1d-",
+            "thumbnail": "assets/media/agencyds.jpg",
+            "prefix": "media",
+            "filename": "agencyds_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 13662615,
+            "url": "assets/media/agencyds_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Klasik",
+        "priority": 1,
+        "projectURL": "https://agencyds.com"
+    },
+    {
+        "id": "0434b106-495b-4701-b96a-",
+        "name": "App",
+        "slug": "app",
+        "description": "Proje Linki: https://minalidya.wedding/app\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "18a4c672-10a9-4820-a382-",
+            "prefix": "media",
+            "filename": "app.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 778462,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 5960,
+                    "filename": "app-200x100.jpg",
+                    "url": "assets/media/app-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 14745,
+                    "filename": "app-400x200.jpg",
+                    "url": "assets/media/app-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 27190,
+                    "filename": "app-600x300.jpg",
+                    "url": "assets/media/app-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 60614,
+                    "filename": "app-1024x512.jpg",
+                    "url": "assets/media/app-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 85561,
+                    "filename": "app-1280x640.jpg",
+                    "url": "assets/media/app-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 122380,
+                    "filename": "app-1600x800.jpg",
+                    "url": "assets/media/app-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 174375,
+                    "filename": "app-2000x1000.jpg",
+                    "url": "assets/media/app-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 20297,
+                    "filename": "app-400x300.jpg",
+                    "url": "assets/media/app-400x300.jpg"
+                }
+            },
+            "url": "assets/media/app.jpg"
+        },
+        "video": {
+            "id": "faed64ff-e008-44e2-bff6-",
+            "thumbnail": "assets/media/app.jpg",
+            "prefix": "media",
+            "filename": "app_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 11564616,
+            "url": "assets/media/app_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "e-Ticaret",
+        "priority": 2,
+        "projectURL": "https://minalidya.wedding/app"
+    },
+    {
+        "id": "58138a62-d2d6-4e08-8732-",
+        "name": "Dunya",
+        "slug": "dunya",
+        "description": "Proje Linki: https://dunya.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "b07424f0-0c59-47b6-ba84-",
+            "prefix": "media",
+            "filename": "dunya.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 895655,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 6238,
+                    "filename": "dunya-200x100.jpg",
+                    "url": "assets/media/dunya-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 18622,
+                    "filename": "dunya-400x200.jpg",
+                    "url": "assets/media/dunya-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 36098,
+                    "filename": "dunya-600x300.jpg",
+                    "url": "assets/media/dunya-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 83474,
+                    "filename": "dunya-1024x512.jpg",
+                    "url": "assets/media/dunya-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 117344,
+                    "filename": "dunya-1280x640.jpg",
+                    "url": "assets/media/dunya-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 166121,
+                    "filename": "dunya-1600x800.jpg",
+                    "url": "assets/media/dunya-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 234405,
+                    "filename": "dunya-2000x1000.jpg",
+                    "url": "assets/media/dunya-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 28271,
+                    "filename": "dunya-400x300.jpg",
+                    "url": "assets/media/dunya-400x300.jpg"
+                }
+            },
+            "url": "assets/media/dunya.jpg"
+        },
+        "video": {
+            "id": "f4fa60d1-cedb-4115-bcda-",
+            "thumbnail": "assets/media/dunya.jpg",
+            "prefix": "media",
+            "filename": "dunya_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 4715181,
+            "url": "assets/media/dunya_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "e-Ticaret",
+        "priority": 3,
+        "projectURL": "https://dunya.minalidya.wedding"
+    },
+    {
+        "id": "4c138d4d-f602-4311-8b63-",
+        "name": "Gallery",
+        "slug": "gallery",
+        "description": "Proje Linki: https://gallery.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "d4a4daf4-a5eb-40fe-bc3a-",
+            "prefix": "media",
+            "filename": "gallery.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 430764,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 3213,
+                    "filename": "gallery-200x100.jpg",
+                    "url": "assets/media/gallery-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 8579,
+                    "filename": "gallery-400x200.jpg",
+                    "url": "assets/media/gallery-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 17072,
+                    "filename": "gallery-600x300.jpg",
+                    "url": "assets/media/gallery-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 37581,
+                    "filename": "gallery-1024x512.jpg",
+                    "url": "assets/media/gallery-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 56949,
+                    "filename": "gallery-1280x640.jpg",
+                    "url": "assets/media/gallery-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 79064,
+                    "filename": "gallery-1600x800.jpg",
+                    "url": "assets/media/gallery-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 111528,
+                    "filename": "gallery-2000x1000.jpg",
+                    "url": "assets/media/gallery-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 12144,
+                    "filename": "gallery-400x300.jpg",
+                    "url": "assets/media/gallery-400x300.jpg"
+                }
+            },
+            "url": "assets/media/gallery.jpg"
+        },
+        "video": {
+            "id": "f436465a-276f-4df4-ad2d-",
+            "thumbnail": "assets/media/gallery.jpg",
+            "prefix": "media",
+            "filename": "gallery_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 16161621,
+            "url": "assets/media/gallery_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Tanitim, Premium",
+        "priority": 4,
+        "projectURL": "https://gallery.minalidya.wedding"
+    },
+    {
+        "id": "37dd9bfa-5430-447a-8afa-",
+        "name": "Inegolgelinlik",
+        "slug": "inegolgelinlik",
+        "description": "Proje Linki: https://inegolgelinlik.com\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "8b138bdd-f789-4906-80f6-",
+            "prefix": "media",
+            "filename": "inegolgelinlik.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 856397,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 7044,
+                    "filename": "inegolgelinlik-200x100.jpg",
+                    "url": "assets/media/inegolgelinlik-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 19310,
+                    "filename": "inegolgelinlik-400x200.jpg",
+                    "url": "assets/media/inegolgelinlik-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 36584,
+                    "filename": "inegolgelinlik-600x300.jpg",
+                    "url": "assets/media/inegolgelinlik-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 83787,
+                    "filename": "inegolgelinlik-1024x512.jpg",
+                    "url": "assets/media/inegolgelinlik-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 117567,
+                    "filename": "inegolgelinlik-1280x640.jpg",
+                    "url": "assets/media/inegolgelinlik-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 163395,
+                    "filename": "inegolgelinlik-1600x800.jpg",
+                    "url": "assets/media/inegolgelinlik-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 224819,
+                    "filename": "inegolgelinlik-2000x1000.jpg",
+                    "url": "assets/media/inegolgelinlik-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 27563,
+                    "filename": "inegolgelinlik-400x300.jpg",
+                    "url": "assets/media/inegolgelinlik-400x300.jpg"
+                }
+            },
+            "url": "assets/media/inegolgelinlik.jpg"
+        },
+        "video": {
+            "id": "2e0f6467-1ad2-4df8-b2d2-",
+            "thumbnail": "assets/media/inegolgelinlik.jpg",
+            "prefix": "media",
+            "filename": "inegolgelinlik_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 5982083,
+            "url": "assets/media/inegolgelinlik_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Klasik",
+        "priority": 5,
+        "projectURL": "https://inegolgelinlik.com"
+    },
+    {
+        "id": "5e85613c-fa7d-4e5c-8ca5-",
+        "name": "Interlooms",
+        "slug": "interlooms",
+        "description": "Proje Linki: https://interlooms.com\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "6ecd9b84-7ddb-4798-b8dd-",
+            "prefix": "media",
+            "filename": "interlooms.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 999542,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 6460,
+                    "filename": "interlooms-200x100.jpg",
+                    "url": "assets/media/interlooms-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 17580,
+                    "filename": "interlooms-400x200.jpg",
+                    "url": "assets/media/interlooms-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 32396,
+                    "filename": "interlooms-600x300.jpg",
+                    "url": "assets/media/interlooms-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 74093,
+                    "filename": "interlooms-1024x512.jpg",
+                    "url": "assets/media/interlooms-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 105071,
+                    "filename": "interlooms-1280x640.jpg",
+                    "url": "assets/media/interlooms-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 147590,
+                    "filename": "interlooms-1600x800.jpg",
+                    "url": "assets/media/interlooms-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 207234,
+                    "filename": "interlooms-2000x1000.jpg",
+                    "url": "assets/media/interlooms-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 27616,
+                    "filename": "interlooms-400x300.jpg",
+                    "url": "assets/media/interlooms-400x300.jpg"
+                }
+            },
+            "url": "assets/media/interlooms.jpg"
+        },
+        "video": {
+            "id": "6853820e-663b-4abf-aebf-",
+            "thumbnail": "assets/media/interlooms.jpg",
+            "prefix": "media",
+            "filename": "interlooms_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 6764067,
+            "url": "assets/media/interlooms_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Klasik",
+        "priority": 6,
+        "projectURL": "https://interlooms.com"
+    },
+    {
+        "id": "4b3c8b52-c141-4333-a98a-",
+        "name": "Love",
+        "slug": "love",
+        "description": "Proje Linki: https://love.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "24d4d432-4def-42a8-afff-",
+            "prefix": "media",
+            "filename": "love.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 769924,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 5744,
+                    "filename": "love-200x100.jpg",
+                    "url": "assets/media/love-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 16606,
+                    "filename": "love-400x200.jpg",
+                    "url": "assets/media/love-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 32244,
+                    "filename": "love-600x300.jpg",
+                    "url": "assets/media/love-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 75729,
+                    "filename": "love-1024x512.jpg",
+                    "url": "assets/media/love-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 107552,
+                    "filename": "love-1280x640.jpg",
+                    "url": "assets/media/love-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 153917,
+                    "filename": "love-1600x800.jpg",
+                    "url": "assets/media/love-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 215941,
+                    "filename": "love-2000x1000.jpg",
+                    "url": "assets/media/love-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 19781,
+                    "filename": "love-400x300.jpg",
+                    "url": "assets/media/love-400x300.jpg"
+                }
+            },
+            "url": "assets/media/love.jpg"
+        },
+        "video": {
+            "id": "85246828-1965-4d4c-925c-",
+            "thumbnail": "assets/media/love.jpg",
+            "prefix": "media",
+            "filename": "love_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 7112710,
+            "url": "assets/media/love_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Tanitim, Premium",
+        "priority": 7,
+        "projectURL": "https://love.minalidya.wedding"
+    },
+    {
+        "id": "08308bac-021a-45e7-836c-",
+        "name": "Magaza",
+        "slug": "magaza",
+        "description": "Proje Linki: https://magaza.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "2020fd0d-1b95-4c7e-a3b7-",
+            "prefix": "media",
+            "filename": "magaza.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 610614,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 4752,
+                    "filename": "magaza-200x100.jpg",
+                    "url": "assets/media/magaza-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 11684,
+                    "filename": "magaza-400x200.jpg",
+                    "url": "assets/media/magaza-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 21158,
+                    "filename": "magaza-600x300.jpg",
+                    "url": "assets/media/magaza-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 45754,
+                    "filename": "magaza-1024x512.jpg",
+                    "url": "assets/media/magaza-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 64064,
+                    "filename": "magaza-1280x640.jpg",
+                    "url": "assets/media/magaza-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 91200,
+                    "filename": "magaza-1600x800.jpg",
+                    "url": "assets/media/magaza-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 129187,
+                    "filename": "magaza-2000x1000.jpg",
+                    "url": "assets/media/magaza-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 17091,
+                    "filename": "magaza-400x300.jpg",
+                    "url": "assets/media/magaza-400x300.jpg"
+                }
+            },
+            "url": "assets/media/magaza.jpg"
+        },
+        "video": {
+            "id": "8f4ae49a-d197-42a5-96b1-",
+            "thumbnail": "assets/media/magaza.jpg",
+            "prefix": "media",
+            "filename": "magaza_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 8544716,
+            "url": "assets/media/magaza_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "e-Ticaret",
+        "priority": 8,
+        "projectURL": "https://magaza.minalidya.wedding"
+    },
+    {
+        "id": "c6e1c351-6ac0-40df-ace8-",
+        "name": "Manifest",
+        "slug": "manifest",
+        "description": "Proje Linki: https://manifest.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "49203853-a7dd-4c1a-bbd2-",
+            "prefix": "media",
+            "filename": "manifest.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 1019434,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 6446,
+                    "filename": "manifest-200x100.jpg",
+                    "url": "assets/media/manifest-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 18232,
+                    "filename": "manifest-400x200.jpg",
+                    "url": "assets/media/manifest-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 35539,
+                    "filename": "manifest-600x300.jpg",
+                    "url": "assets/media/manifest-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 84193,
+                    "filename": "manifest-1024x512.jpg",
+                    "url": "assets/media/manifest-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 120638,
+                    "filename": "manifest-1280x640.jpg",
+                    "url": "assets/media/manifest-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 173287,
+                    "filename": "manifest-1600x800.jpg",
+                    "url": "assets/media/manifest-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 246597,
+                    "filename": "manifest-2000x1000.jpg",
+                    "url": "assets/media/manifest-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 25764,
+                    "filename": "manifest-400x300.jpg",
+                    "url": "assets/media/manifest-400x300.jpg"
+                }
+            },
+            "url": "assets/media/manifest.jpg"
+        },
+        "video": {
+            "id": "711a2681-c1f9-4fa4-a3de-",
+            "thumbnail": "assets/media/manifest.jpg",
+            "prefix": "media",
+            "filename": "manifest_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 8294105,
+            "url": "assets/media/manifest_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Tanitim, Premium",
+        "priority": 9,
+        "projectURL": "https://manifest.minalidya.wedding"
+    },
+    {
+        "id": "00330c0b-03e9-4785-85ce-",
+        "name": "Minadesign",
+        "slug": "minadesign",
+        "description": "Proje Linki: https://minadesign.eu\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "0f56768f-58f2-4d02-b89c-",
+            "prefix": "media",
+            "filename": "minadesign.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 684733,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 5757,
+                    "filename": "minadesign-200x100.jpg",
+                    "url": "assets/media/minadesign-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 16260,
+                    "filename": "minadesign-400x200.jpg",
+                    "url": "assets/media/minadesign-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 30112,
+                    "filename": "minadesign-600x300.jpg",
+                    "url": "assets/media/minadesign-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 67720,
+                    "filename": "minadesign-1024x512.jpg",
+                    "url": "assets/media/minadesign-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 95422,
+                    "filename": "minadesign-1280x640.jpg",
+                    "url": "assets/media/minadesign-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 131662,
+                    "filename": "minadesign-1600x800.jpg",
+                    "url": "assets/media/minadesign-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 182121,
+                    "filename": "minadesign-2000x1000.jpg",
+                    "url": "assets/media/minadesign-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 22836,
+                    "filename": "minadesign-400x300.jpg",
+                    "url": "assets/media/minadesign-400x300.jpg"
+                }
+            },
+            "url": "assets/media/minadesign.jpg"
+        },
+        "video": {
+            "id": "67e4beb2-623c-4ecc-b9c2-",
+            "thumbnail": "assets/media/minadesign.jpg",
+            "prefix": "media",
+            "filename": "minadesign_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 13464665,
+            "url": "assets/media/minadesign_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Klasik",
+        "priority": 10,
+        "projectURL": "https://minadesign.eu"
+    },
+    {
+        "id": "49eff77a-9932-4810-9c40-",
+        "name": "Minalidyacom",
+        "slug": "minalidyacom",
+        "description": "Proje Linki: https://minalidya.com\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "4389c365-a049-4251-bcbe-",
+            "prefix": "media",
+            "filename": "minalidyacom.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 405273,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 3328,
+                    "filename": "minalidyacom-200x100.jpg",
+                    "url": "assets/media/minalidyacom-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 8632,
+                    "filename": "minalidyacom-400x200.jpg",
+                    "url": "assets/media/minalidyacom-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 17230,
+                    "filename": "minalidyacom-600x300.jpg",
+                    "url": "assets/media/minalidyacom-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 38357,
+                    "filename": "minalidyacom-1024x512.jpg",
+                    "url": "assets/media/minalidyacom-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 53610,
+                    "filename": "minalidyacom-1280x640.jpg",
+                    "url": "assets/media/minalidyacom-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 73399,
+                    "filename": "minalidyacom-1600x800.jpg",
+                    "url": "assets/media/minalidyacom-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 103557,
+                    "filename": "minalidyacom-2000x1000.jpg",
+                    "url": "assets/media/minalidyacom-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 12987,
+                    "filename": "minalidyacom-400x300.jpg",
+                    "url": "assets/media/minalidyacom-400x300.jpg"
+                }
+            },
+            "url": "assets/media/minalidyacom.jpg"
+        },
+        "video": {
+            "id": "1c32f958-9e57-4575-b2c1-",
+            "thumbnail": "assets/media/minalidyacom.jpg",
+            "prefix": "media",
+            "filename": "minalidyacom_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 7322001,
+            "url": "assets/media/minalidyacom_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Klasik",
+        "priority": 11,
+        "projectURL": "https://minalidya.com"
+    },
+    {
+        "id": "663d569a-73f2-450a-b23d-",
+        "name": "Minalidyaes",
+        "slug": "minalidyaes",
+        "description": "Proje Linki: https://minalidya.es\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "6bd1b477-0a72-416b-acbe-",
+            "prefix": "media",
+            "filename": "minalidyaes.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 630662,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 5244,
+                    "filename": "minalidyaes-200x100.jpg",
+                    "url": "assets/media/minalidyaes-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 13811,
+                    "filename": "minalidyaes-400x200.jpg",
+                    "url": "assets/media/minalidyaes-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 26967,
+                    "filename": "minalidyaes-600x300.jpg",
+                    "url": "assets/media/minalidyaes-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 65002,
+                    "filename": "minalidyaes-1024x512.jpg",
+                    "url": "assets/media/minalidyaes-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 92088,
+                    "filename": "minalidyaes-1280x640.jpg",
+                    "url": "assets/media/minalidyaes-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 128868,
+                    "filename": "minalidyaes-1600x800.jpg",
+                    "url": "assets/media/minalidyaes-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 182780,
+                    "filename": "minalidyaes-2000x1000.jpg",
+                    "url": "assets/media/minalidyaes-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 20012,
+                    "filename": "minalidyaes-400x300.jpg",
+                    "url": "assets/media/minalidyaes-400x300.jpg"
+                }
+            },
+            "url": "assets/media/minalidyaes.jpg"
+        },
+        "video": {
+            "id": "03f4d26a-7442-4000-be03-",
+            "thumbnail": "assets/media/minalidyaes.jpg",
+            "prefix": "media",
+            "filename": "minalidyaes_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 4739902,
+            "url": "assets/media/minalidyaes_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Klasik",
+        "priority": 12,
+        "projectURL": "https://minalidya.es"
+    },
+    {
+        "id": "57e4dca0-2327-4beb-8593-",
+        "name": "Minalidyawedding",
+        "slug": "minalidyawedding",
+        "description": "Proje Linki: https://minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "f2561ebd-41af-4b43-89cd-",
+            "prefix": "media",
+            "filename": "minalidyawedding.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 406483,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 2935,
+                    "filename": "minalidyawedding-200x100.jpg",
+                    "url": "assets/media/minalidyawedding-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 8441,
+                    "filename": "minalidyawedding-400x200.jpg",
+                    "url": "assets/media/minalidyawedding-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 16397,
+                    "filename": "minalidyawedding-600x300.jpg",
+                    "url": "assets/media/minalidyawedding-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 37496,
+                    "filename": "minalidyawedding-1024x512.jpg",
+                    "url": "assets/media/minalidyawedding-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 54288,
+                    "filename": "minalidyawedding-1280x640.jpg",
+                    "url": "assets/media/minalidyawedding-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 73526,
+                    "filename": "minalidyawedding-1600x800.jpg",
+                    "url": "assets/media/minalidyawedding-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 104907,
+                    "filename": "minalidyawedding-2000x1000.jpg",
+                    "url": "assets/media/minalidyawedding-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 11772,
+                    "filename": "minalidyawedding-400x300.jpg",
+                    "url": "assets/media/minalidyawedding-400x300.jpg"
+                }
+            },
+            "url": "assets/media/minalidyawedding.jpg"
+        },
+        "video": {
+            "id": "59e54da1-0e63-46c3-88ec-",
+            "thumbnail": "assets/media/minalidyawedding.jpg",
+            "prefix": "media",
+            "filename": "minalidyawedding_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 15393353,
+            "url": "assets/media/minalidyawedding_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Klasik",
+        "priority": 13,
+        "projectURL": "https://minalidya.wedding"
+    },
+    {
+        "id": "836913ce-d672-4e7c-b72a-",
+        "name": "Podyum",
+        "slug": "podyum",
+        "description": "Proje Linki: https://podyum.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "a549b651-80d0-45eb-844e-",
+            "prefix": "media",
+            "filename": "podyum.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 466950,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 4074,
+                    "filename": "podyum-200x100.jpg",
+                    "url": "assets/media/podyum-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 10292,
+                    "filename": "podyum-400x200.jpg",
+                    "url": "assets/media/podyum-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 18257,
+                    "filename": "podyum-600x300.jpg",
+                    "url": "assets/media/podyum-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 38241,
+                    "filename": "podyum-1024x512.jpg",
+                    "url": "assets/media/podyum-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 52985,
+                    "filename": "podyum-1280x640.jpg",
+                    "url": "assets/media/podyum-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 73418,
+                    "filename": "podyum-1600x800.jpg",
+                    "url": "assets/media/podyum-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 102159,
+                    "filename": "podyum-2000x1000.jpg",
+                    "url": "assets/media/podyum-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 14976,
+                    "filename": "podyum-400x300.jpg",
+                    "url": "assets/media/podyum-400x300.jpg"
+                }
+            },
+            "url": "assets/media/podyum.jpg"
+        },
+        "video": {
+            "id": "259c20e4-b786-4d5b-b3ab-",
+            "thumbnail": "assets/media/podyum.jpg",
+            "prefix": "media",
+            "filename": "podyum_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 7123680,
+            "url": "assets/media/podyum_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Tanitim, Premium",
+        "priority": 14,
+        "projectURL": "https://podyum.minalidya.wedding"
+    },
+    {
+        "id": "12c57d11-e55c-4408-8093-",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": "Proje Linki: https://sahne.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "62bf523d-cfbd-4757-89f1-",
+            "prefix": "media",
+            "filename": "sahne.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 581900,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 4456,
+                    "filename": "sahne-200x100.jpg",
+                    "url": "assets/media/sahne-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 11844,
+                    "filename": "sahne-400x200.jpg",
+                    "url": "assets/media/sahne-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 22384,
+                    "filename": "sahne-600x300.jpg",
+                    "url": "assets/media/sahne-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 50201,
+                    "filename": "sahne-1024x512.jpg",
+                    "url": "assets/media/sahne-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 69333,
+                    "filename": "sahne-1280x640.jpg",
+                    "url": "assets/media/sahne-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 96724,
+                    "filename": "sahne-1600x800.jpg",
+                    "url": "assets/media/sahne-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 136004,
+                    "filename": "sahne-2000x1000.jpg",
+                    "url": "assets/media/sahne-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 15743,
+                    "filename": "sahne-400x300.jpg",
+                    "url": "assets/media/sahne-400x300.jpg"
+                }
+            },
+            "url": "assets/media/sahne.jpg"
+        },
+        "video": {
+            "id": "46062807-f4d9-4dc3-bde3-",
+            "thumbnail": "assets/media/sahne.jpg",
+            "prefix": "media",
+            "filename": "sahne_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 7140851,
+            "url": "assets/media/sahne_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Tanitim, Premium",
+        "priority": 15,
+        "projectURL": "https://sahne.minalidya.wedding"
+    },
+    {
+        "id": "43b84ab4-0d87-4078-8b19-",
+        "name": "Sanat",
+        "slug": "sanat",
+        "description": "Proje Linki: https://sanat.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "eb930d1a-e1a6-411f-a802-",
+            "prefix": "media",
+            "filename": "sanat.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 970834,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 6804,
+                    "filename": "sanat-200x100.jpg",
+                    "url": "assets/media/sanat-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 20048,
+                    "filename": "sanat-400x200.jpg",
+                    "url": "assets/media/sanat-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 37065,
+                    "filename": "sanat-600x300.jpg",
+                    "url": "assets/media/sanat-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 84439,
+                    "filename": "sanat-1024x512.jpg",
+                    "url": "assets/media/sanat-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 118589,
+                    "filename": "sanat-1280x640.jpg",
+                    "url": "assets/media/sanat-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 168181,
+                    "filename": "sanat-1600x800.jpg",
+                    "url": "assets/media/sanat-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 238228,
+                    "filename": "sanat-2000x1000.jpg",
+                    "url": "assets/media/sanat-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 24298,
+                    "filename": "sanat-400x300.jpg",
+                    "url": "assets/media/sanat-400x300.jpg"
+                }
+            },
+            "url": "assets/media/sanat.jpg"
+        },
+        "video": {
+            "id": "9dce64c5-7899-4e1a-b33f-",
+            "thumbnail": "assets/media/sanat.jpg",
+            "prefix": "media",
+            "filename": "sanat_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 12445072,
+            "url": "assets/media/sanat_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Tanitim, Premium",
+        "priority": 16,
+        "projectURL": "https://sanat.minalidya.wedding"
+    },
+    {
+        "id": "709831f7-5574-4fec-a3f1-",
+        "name": "Show",
+        "slug": "show",
+        "description": "Proje Linki: https://minalidya.wedding/cinematic\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "bd6e484c-499f-442d-aa1b-",
+            "prefix": "media",
+            "filename": "show.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 485710,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 3325,
+                    "filename": "show-200x100.jpg",
+                    "url": "assets/media/show-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 8983,
+                    "filename": "show-400x200.jpg",
+                    "url": "assets/media/show-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 16993,
+                    "filename": "show-600x300.jpg",
+                    "url": "assets/media/show-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 41659,
+                    "filename": "show-1024x512.jpg",
+                    "url": "assets/media/show-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 58291,
+                    "filename": "show-1280x640.jpg",
+                    "url": "assets/media/show-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 84663,
+                    "filename": "show-1600x800.jpg",
+                    "url": "assets/media/show-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 122102,
+                    "filename": "show-2000x1000.jpg",
+                    "url": "assets/media/show-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 11963,
+                    "filename": "show-400x300.jpg",
+                    "url": "assets/media/show-400x300.jpg"
+                }
+            },
+            "url": "assets/media/show.jpg"
+        },
+        "video": {
+            "id": "dfa645ed-a404-4ef6-8233-",
+            "thumbnail": "assets/media/show.jpg",
+            "prefix": "media",
+            "filename": "show_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 8148895,
+            "url": "assets/media/show_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "Tanitim, Premium",
+        "priority": 17,
+        "projectURL": "https://minalidya.wedding/cinematic"
+    },
+    {
+        "id": "2141d615-462a-461a-830a-",
+        "name": "Store",
+        "slug": "store",
+        "description": "Proje Linki: https://store.minalidya.wedding\n\nİlginizi çektiyse, iletişime geçiniz: support@minadesign.eu",
+        "clientName": "CARBON Labs",
+        "completionDate": "2024-01-30T00:00:00.000Z",
+        "projectLogo": {
+            "id": "b6d8a2ae-fffb-4fcc-9487-",
+            "prefix": "media",
+            "filename": "store.jpg",
+            "mimeType": "image/jpeg",
+            "filesize": 947837,
+            "width": 3840,
+            "height": 2400,
+            "sizes": {
+                "i200px": {
+                    "width": 200,
+                    "height": 100,
+                    "mimeType": "image/jpeg",
+                    "filesize": 6501,
+                    "filename": "store-200x100.jpg",
+                    "url": "assets/media/store-200x100.jpg"
+                },
+                "i400px": {
+                    "width": 400,
+                    "height": 200,
+                    "mimeType": "image/jpeg",
+                    "filesize": 19094,
+                    "filename": "store-400x200.jpg",
+                    "url": "assets/media/store-400x200.jpg"
+                },
+                "i600px": {
+                    "width": 600,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 36412,
+                    "filename": "store-600x300.jpg",
+                    "url": "assets/media/store-600x300.jpg"
+                },
+                "i1024px": {
+                    "width": 1024,
+                    "height": 512,
+                    "mimeType": "image/jpeg",
+                    "filesize": 80575,
+                    "filename": "store-1024x512.jpg",
+                    "url": "assets/media/store-1024x512.jpg"
+                },
+                "i1280px": {
+                    "width": 1280,
+                    "height": 640,
+                    "mimeType": "image/jpeg",
+                    "filesize": 113004,
+                    "filename": "store-1280x640.jpg",
+                    "url": "assets/media/store-1280x640.jpg"
+                },
+                "i1600px": {
+                    "width": 1600,
+                    "height": 800,
+                    "mimeType": "image/jpeg",
+                    "filesize": 160111,
+                    "filename": "store-1600x800.jpg",
+                    "url": "assets/media/store-1600x800.jpg"
+                },
+                "i2000px": {
+                    "width": 2000,
+                    "height": 1000,
+                    "mimeType": "image/jpeg",
+                    "filesize": 226558,
+                    "filename": "store-2000x1000.jpg",
+                    "url": "assets/media/store-2000x1000.jpg"
+                },
+                "thumbnail": {
+                    "width": 400,
+                    "height": 300,
+                    "mimeType": "image/jpeg",
+                    "filesize": 28420,
+                    "filename": "store-400x300.jpg",
+                    "url": "assets/media/store-400x300.jpg"
+                }
+            },
+            "url": "assets/media/store.jpg"
+        },
+        "video": {
+            "id": "138342be-9a88-460c-8344-",
+            "thumbnail": "assets/media/store.jpg",
+            "prefix": "media",
+            "filename": "store_2000Kbps_720p.mp4",
+            "mimeType": "video/mp4",
+            "filesize": 5449760,
+            "url": "assets/media/store_2000Kbps_720p.mp4"
+        },
+        "uiColor": "ffffff",
+        "tags": "e-Ticaret",
+        "priority": 18,
+        "projectURL": "https://store.minalidya.wedding"
+    }
+]

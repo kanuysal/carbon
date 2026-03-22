@@ -1,0 +1,38 @@
+{
+    "links": [
+        {
+            "title": "E-posta",
+            "url": "mailto:support@minadesign.eu",
+            "id": "65c136c0c0c0f7604e81a42b"
+        },
+        {
+            "title": "Bülten",
+            "url": "https://carbonlabs.pages.dev",
+            "id": "65c13868c0c0f7604e81a42c"
+        },
+        {
+            "title": "Gizlilik",
+            "url": "https://carbonlabs.pages.dev",
+            "id": "65c13873c0c0f7604e81a42d"
+        },
+        {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/carbonlabseu",
+            "id": "65c1388fc0c0f7604e81a42e"
+        },
+        {
+            "title": "LinkedIn",
+            "url": "https://www.linkedin.com/company/carbonlaseu/",
+            "id": "65c1389dc0c0f7604e81a42f"
+        },
+        {
+            "title": "X",
+            "url": "https://twitter.com/carbonlabseu",
+            "id": "65c138a3c0c0f7604e81a430"
+        }
+    ],
+    "globalType": "contact",
+    "createdAt": "2026-02-05T19:36:14.328Z",
+    "updatedAt": "2026-02-05T19:36:14.328Z",
+    "id": "65c138ae3f7e83834f95b658"
+}

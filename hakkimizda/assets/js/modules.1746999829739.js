@@ -1,1 +1,0 @@
-window._MODULES_ = true;
