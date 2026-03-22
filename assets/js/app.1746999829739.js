@@ -12359,7 +12359,7 @@ function styleMap(object) {
                     }
                     (i.push({ type: "NAME", index: a, value: n }), (a = r));
                   }
-                else i.push({ type: "CLOSE", index: a, value: s[a++] });
+                else i.push({ type: "KAPAT", index: a, value: s[a++] });
               else i.push({ type: "OPEN", index: a, value: s[a++] });
             else i.push({ type: "ESCAPED_CHAR", index: a++, value: s[a++] });
           else i.push({ type: "MODIFIER", index: a, value: s[a++] });
@@ -12421,7 +12421,7 @@ function styleMap(object) {
           let n = f("PATTERN") || "";
           e || n || !f("ASTERISK") || (n = ".*");
           const s = d();
-          m("CLOSE");
+          m("KAPAT");
           const r = l() || "";
           if (!e && !n && !r) {
             c += t;
@@ -13022,7 +13022,7 @@ function styleMap(object) {
                 return (
                   "NAME" !== t.type &&
                   "PATTERN" !== t.type &&
-                  "CLOSE" !== t.type &&
+                  "KAPAT" !== t.type &&
                   "ASTERISK" !== t.type
                 );
               }
@@ -13033,7 +13033,7 @@ function styleMap(object) {
                 return "OPEN" == this.tokenList[this.tokenIndex].type;
               }
               isGroupClose() {
-                return "CLOSE" == this.tokenList[this.tokenIndex].type;
+                return "KAPAT" == this.tokenList[this.tokenIndex].type;
               }
               isIPv6Open() {
                 return this.isNonSpecialPatternChar(this.tokenIndex, "[");
@@ -66729,7 +66729,7 @@ class SkinAnimation {
             link.setAttribute("title", "İletişime Geç"),
             link.setAttribute(
               "href",
-              "https://activetheory.notion.site/Active-Theory-Privacy-Notice-dc343e6976e24c5e866be0ee64bf99eb",
+              "https://activetheory.notion.site/Active-Theory-Gizlilik Bilgilendirmesi-Notice-dc343e6976e24c5e866be0ee64bf99eb",
             ),
             link.setAttribute("target", "_blank"),
             (link.style.marginLeft = "0"),
@@ -67789,7 +67789,7 @@ class SkinAnimation {
               letterSpacing: 0.1,
               fontColor: "#ffffff",
               _type: "glText",
-              _innerText: "Privacy Notice",
+              _innerText: "Gizlilik Bilgilendirmesi",
               refName: "privacy",
               children: [],
             },
@@ -67908,7 +67908,7 @@ class SkinAnimation {
         GLA11y.textNode(_this.lax.group, "Los Angeles"),
         GLA11y.textNode(_this.nyc.group, "New York City"),
         GLA11y.textNode(_this.ams.group, "Amsterdam"),
-        GLA11y.textNode(_this.privacy.group, "Privacy Notice"),
+        GLA11y.textNode(_this.privacy.group, "Gizlilik Bilgilendirmesi"),
         GLA11y.textNode(_this.subscribe.group, "Newsletter Signup"),
         GLA11y.textNode(
           _this.email.group,
@@ -67935,7 +67935,7 @@ class SkinAnimation {
           hover,
           (_) =>
             window.open(
-              "https://www.notion.so/Active-Theory-Privacy-Notice-dc343e6976e24c5e866be0ee64bf99eb",
+              "https://www.notion.so/Active-Theory-Gizlilik Bilgilendirmesi-Notice-dc343e6976e24c5e866be0ee64bf99eb",
               "_blank",
             ),
           "#",
@@ -67986,7 +67986,7 @@ class SkinAnimation {
               replaceRandomLetters("Newsletter Signup", 10 * glitch),
             ),
             _this.privacy.setText(
-              replaceRandomLetters("Privacy Notice", 10 * glitch),
+              replaceRandomLetters("Gizlilik Bilgilendirmesi", 10 * glitch),
             ),
             _this.contact.setText(
               replaceRandomLetters("CONTACT US", 10 * glitch),
@@ -68031,28 +68031,28 @@ class SkinAnimation {
                   refName: "buttons",
                   children: [
                     {
-                      "aria-label": "Accept Cookies",
+                      "aria-label": "KABUL ET",
                       click: "$cookiesAccept",
                       _type: "button",
                       refName: "accept",
                       children: [
                         {
                           _type: "p",
-                          _innerText: "Accept Cookies",
+                          _innerText: "KABUL ET",
                           refName: "textAccept",
                           children: [],
                         },
                       ],
                     },
                     {
-                      "aria-label": "Reject Cookies",
+                      "aria-label": "REDDET",
                       click: "$cookiesReject",
                       _type: "button",
                       refName: "reject",
                       children: [
                         {
                           _type: "p",
-                          _innerText: "Reject Cookies",
+                          _innerText: "REDDET",
                           refName: "textReject",
                           children: [],
                         },
@@ -68070,9 +68070,9 @@ class SkinAnimation {
         _this.layout?.getAllLayers &&
           (_this.layers = await _this.layout.getAllLayers()),
         (function initText() {
-          let title = "Privacy Notice.",
+          let title = "Gizlilik Bilgilendirmesi.",
             text = document.createTextNode(
-              "Our site uses essential cookies and, with your consent, analytics cookies. Details in ",
+              "Sitemiz temel çerezleri ve izninizle analiz çerezlerini kullanır. Detaylar: ",
             ),
             link = document.createElement("a");
           ((link.text = title),
@@ -68080,7 +68080,7 @@ class SkinAnimation {
             link.setAttribute("ariaLabel", title),
             link.setAttribute(
               "href",
-              "https://activetheory.notion.site/Active-Theory-Privacy-Notice-dc343e6976e24c5e866be0ee64bf99eb#f5782d13e1ac43cc96dfa95e33521fe0",
+              "https://activetheory.notion.site/Active-Theory-Gizlilik Bilgilendirmesi-Notice-dc343e6976e24c5e866be0ee64bf99eb#f5782d13e1ac43cc96dfa95e33521fe0",
             ),
             link.setAttribute("target", "_blank"),
             _this.text.div.appendChild(text),
@@ -69797,20 +69797,20 @@ class SkinAnimation {
       let SONGS = [
         {
           title: "Sergey Azbel - Themis",
-          src: "assets/music/Sergey Azbel - Themis.mp3",
+          src: "assets/music/Downtown Binary - Other Worlds.mp3",
         },
-        { title: "nuer self - Dusk", src: "assets/music/nuer self - Dusk.mp3" },
+        { title: "nuer self - Dusk", src: "assets/music/Downtown Binary - Other Worlds.mp3" },
         {
           title: "Flint - Fly up High",
-          src: "assets/music/Flint - Fly up High.mp3",
+          src: "assets/music/Downtown Binary - Other Worlds.mp3",
         },
         {
           title: "Hotham - To the Stars",
-          src: "assets/music/Hotham - To the Stars.mp3",
+          src: "assets/music/Downtown Binary - Other Worlds.mp3",
         },
         {
           title: "Jozeque - Sultans of Streams",
-          src: "assets/music/Jozeque - Sultans of Streams.mp3",
+          src: "assets/music/Downtown Binary - Other Worlds.mp3",
         },
         {
           title: "Downtown Binary - Other Worlds",
@@ -69818,11 +69818,11 @@ class SkinAnimation {
         },
         {
           title: "Magiksolo - Quantum World",
-          src: "assets/music/Magiksolo - Quantum World.mp3",
+          src: "assets/music/Downtown Binary - Other Worlds.mp3",
         },
         {
           title: "BXRDVJA - Ghost Cities",
-          src: "assets/music/BXRDVJA - Ghost Cities.mp3",
+          src: "assets/music/Downtown Binary - Other Worlds.mp3",
         },
       ];
       ((SONGS = SONGS.shuffle()),
@@ -70160,7 +70160,10 @@ class SkinAnimation {
         }));
       let active = !1;
       function click() {
-        if (link == 'mail' || link == 'contact') {
+        if (link == 'mail' || link == 'contact') { 
+            window.location.href = 'mailto:support@minadesign.eu'; 
+            return; 
+        } if (false) { window.location.href = 'mailto:support@minadesign.eu'; return; } if (false) {
             window.location.href = 'mailto:support@minadesign.eu';
             return;
         }
