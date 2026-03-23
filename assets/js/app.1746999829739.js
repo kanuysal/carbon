@@ -66653,7 +66653,7 @@ class SkinAnimation {
                 (_this.active = link.text),
                 _this.set("Work/project", null),
                 _this.set("lastClick", Date.now()),
-                tag && (await defer(), CMSData.filter(tag.toLowerCase())));
+                (await defer(), CMSData.filter(tag ? tag.toLowerCase() : '')));
             }),
             _this.messages.div.prepend(link),
             _this.listen("clickFilter", (_) => link.classList.remove("active")),
@@ -69941,13 +69941,8 @@ class SkinAnimation {
           _type: "UI",
           refName: "ui",
           children: [
-            { text: "PROJE", _type: "NavUIItem", refName: "work", children: [] },
-            {
-              text: "ANASAYFA",
-              _type: "NavUIItem",
-              refName: "contact",
-              children: [],
-            },
+            { text: "PROJELER", _type: "NavUIItem", refName: "work", children: [] },
+            { text: "ANASAYFA", _type: "NavUIItem", refName: "contact", children: [] },
             {
               width: 50,
               height: 40,
@@ -70160,9 +70155,13 @@ class SkinAnimation {
         }));
       let active = !1;
       function click() {
-        if (link == 'anasayfa' || link == 'contact') { 
-            window.location.href = 'mailto:support@minadesign.eu'; 
-            return; 
+        if (link == 'anasayfa' || link == 'contact') {
+            window.location.href = '/site.html';
+            return;
+        }
+        if (link == 'projeler' || link == 'work') {
+            window.location.href = '/index.html';
+            return;
         } if (false) { window.location.href = 'mailto:support@minadesign.eu'; return; } if (false) {
             window.location.href = 'mailto:support@minadesign.eu';
             return;
