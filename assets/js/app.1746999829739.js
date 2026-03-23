@@ -49812,7 +49812,7 @@ class GLUIText {
     Inherit(this, Component);
     const _this = this,
       BACKEND_URL =
-        "https://backend-dot-activetheory-v6.uc.r.appspot.com/api/assistant";
+        "https://backend-dot-carbonlabseu-v6.uc.r.appspot.com/api/assistant";
     var _thread_id = "",
       _slug = "",
       _project = "";
@@ -66477,7 +66477,7 @@ class SkinAnimation {
                 {
                   maxLength: 100,
                   rows: 1,
-                  placeholder: "mailto:support@minadesign.eu",
+                  placeholder: "mailto:support@mailto:support@minadesign.eu",
                   _type: "textarea",
                   refName: "input",
                   children: [],
@@ -66566,7 +66566,7 @@ class SkinAnimation {
           }
         }),
         (_this.onInit = function () {
-          (_this.addMessage("Ne aramıştınız?", "#f4f4f4", !0),
+          (_this.addMessage("KATEGORI SECIMI YAPINIZ", "#f4f4f4", !0),
             _this.addFilter("-> web siteleri", "Website", !0, 100),
             _this.addFilter("-> KLASIK", "Klasik", !0, 200),
             _this.addFilter("-> TANITIM", "Tanitim", !0, 300),
@@ -66718,7 +66718,7 @@ class SkinAnimation {
         _this.bind("showDisclaimer", (show) => {
           if (!show) return;
           let disclaimer =
-              "İçerikler etkileyici geldiyse, görüşelim. ",
+              "PROJENIZE DESTEK OLALIM",
             elem = document.createElement("p"),
             text = document.createTextNode(disclaimer);
           (elem.appendChild(text),
@@ -66729,7 +66729,7 @@ class SkinAnimation {
             link.setAttribute("title", "İletişime Geç"),
             link.setAttribute(
               "href",
-              "https://activetheory.notion.site/Active-Theory-Gizlilik Bilgilendirmesi-Notice-dc343e6976e24c5e866be0ee64bf99eb",
+              "https://mailto:support@mailto:support@minadesign.eu",
             ),
             link.setAttribute("target", "_blank"),
             (link.style.marginLeft = "0"),
@@ -67195,7 +67195,7 @@ class SkinAnimation {
           _this.layers.text.group,
           _this.layers.text.text.text.string,
         ));
-      let url = "https://carbon.minadesign.eu";
+      let url = "https://carbon.mailto:support@minadesign.eu";
       async function updateLayout() {
         Device.mobile && Stage.height > Stage.width
           ? ((_this.layers.text.group.position.x = 0.2),
@@ -67811,7 +67811,7 @@ class SkinAnimation {
               letterSpacing: 0.1,
               fontColor: "#ffffff",
               _type: "glText",
-              _innerText: "HELLO@ACTIVETHEORY.NET",
+              _innerText: "support@mailto:support@minadesign.eu",
               refName: "email",
               children: [],
             },
@@ -67912,7 +67912,7 @@ class SkinAnimation {
         GLA11y.textNode(_this.subscribe.group, "Newsletter Signup"),
         GLA11y.textNode(
           _this.email.group,
-          "Email us at hello@activetheory.net",
+          "Email us at support@mailto:support@minadesign.eu",
         ),
         GLA11y.objectNode(_this.email, _this.ui.group),
         GLA11y.objectNode(_this.subscribe, _this.ui.group),
@@ -67922,13 +67922,13 @@ class SkinAnimation {
         GLA11y.objectNode(_this.ig, _this.ui.group),
         _this.email.interact(
           hover,
-          (_) => window.open("mailto:hello@activetheory.net"),
+          (_) => window.open("mailto:support@mailto:support@minadesign.eu"),
           "#",
         ),
         _this.subscribe.interact(
           hover,
           (_) =>
-            window.open("https://mailchi.mp/activetheory/newsletter", "_blank"),
+            window.open("https://mailchi.mp/minadesign/newsletter", "_blank"),
           "#",
         ),
         _this.privacy.interact(
@@ -67943,7 +67943,7 @@ class SkinAnimation {
         _this.ig.interact(
           hover,
           (_) =>
-            window.open("https://www.instagram.com/activetheory", "_blank"),
+            window.open("https://www.instagram.com/carbonlabseu", "_blank"),
           "#",
           "Instagram",
         ),
@@ -67980,7 +67980,7 @@ class SkinAnimation {
             _this.lax.setText(replaceRandomLetters("LAX", 1 * glitch)),
             _this.ams.setText(replaceRandomLetters("AMS", 1 * glitch)),
             _this.email.setText(
-              replaceRandomLetters("HELLO@ACTIVETHEORY.NET", 10 * glitch),
+              replaceRandomLetters("support@mailto:support@minadesign.eu", 10 * glitch),
             ),
             _this.subscribe.setText(
               replaceRandomLetters("Newsletter Signup", 10 * glitch),
@@ -68080,7 +68080,7 @@ class SkinAnimation {
             link.setAttribute("ariaLabel", title),
             link.setAttribute(
               "href",
-              "https://activetheory.notion.site/Active-Theory-Gizlilik Bilgilendirmesi-Notice-dc343e6976e24c5e866be0ee64bf99eb#f5782d13e1ac43cc96dfa95e33521fe0",
+              "mailto:support@mailto:support@minadesign.euc96dfa95e33521fe0",
             ),
             link.setAttribute("target", "_blank"),
             _this.text.div.appendChild(text),
@@ -69941,9 +69941,9 @@ class SkinAnimation {
           _type: "UI",
           refName: "ui",
           children: [
-            { text: "BİZ", _type: "NavUIItem", refName: "work", children: [] },
+            { text: "PROJE", _type: "NavUIItem", refName: "work", children: [] },
             {
-              text: "MAIL",
+              text: "ANASAYFA",
               _type: "NavUIItem",
               refName: "contact",
               children: [],
@@ -70160,14 +70160,14 @@ class SkinAnimation {
         }));
       let active = !1;
       function click() {
-        if (link == 'mail' || link == 'contact') { 
-            window.location.href = 'mailto:support@minadesign.eu'; 
+        if (link == 'anasayfa' || link == 'contact') { 
+            window.location.href = 'mailto:support@mailto:support@minadesign.eu'; 
             return; 
-        } if (false) { window.location.href = 'mailto:support@minadesign.eu'; return; } if (false) {
-            window.location.href = 'mailto:support@minadesign.eu';
+        } if (false) { window.location.href = 'mailto:support@mailto:support@minadesign.eu'; return; } if (false) {
+            window.location.href = 'mailto:support@mailto:support@minadesign.eu';
             return;
         }
-        if (link == 'biz' || link == 'work' || link == 'hakkimizda' || link == 'hakkımizda') {
+        if (link == 'ANASAYFA' || link == 'work' || link == 'hakkimizda' || link == 'hakkımizda') {
             window.location.href = 'biz.html';
             return;
         }
@@ -77371,13 +77371,13 @@ class SkinAnimation {
               }),
             projectURL &&
               _this.set("ChatDOM/updateLink", {
-                title: "Project Link",
+                title: "PROJE SAYFASI",
                 href: projectURL,
                 animated: !0,
                 delay: 900,
               }),
             _this.set("ChatDOM/updateFilter", {
-              title: "<- Close",
+              title: "<- Kapat",
               tag: null,
               animated: !0,
               delay: 1400,
