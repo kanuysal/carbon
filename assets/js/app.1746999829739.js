@@ -66477,7 +66477,7 @@ class SkinAnimation {
                 {
                   maxLength: 100,
                   rows: 1,
-                  placeholder: "mailto:support@mailto:support@minadesign.eu",
+                  placeholder: "mailto:support@minadesign.eu",
                   _type: "textarea",
                   refName: "input",
                   children: [],
@@ -66567,7 +66567,7 @@ class SkinAnimation {
         }),
         (_this.onInit = function () {
           (_this.addMessage("KATEGORI SECIMI YAPINIZ", "#f4f4f4", !0),
-            _this.addFilter("-> web siteleri", "Website", !0, 100),
+            _this.addFilter("-> web siteleri", null, !0, 100),
             _this.addFilter("-> KLASIK", "Klasik", !0, 200),
             _this.addFilter("-> TANITIM", "Tanitim", !0, 300),
             _this.addFilter("-> e-Ticaret", "e-Ticaret", !0, 400),
@@ -66729,7 +66729,7 @@ class SkinAnimation {
             link.setAttribute("title", "İletişime Geç"),
             link.setAttribute(
               "href",
-              "https://mailto:support@mailto:support@minadesign.eu",
+              "mailto:support@minadesign.eu",
             ),
             link.setAttribute("target", "_blank"),
             (link.style.marginLeft = "0"),
@@ -67083,7 +67083,7 @@ class SkinAnimation {
         _this.layout?.getAllLayers &&
           (_this.layers = await _this.layout.getAllLayers()));
       let options = { lineHeight: 2 },
-        base = "Ne aramıştınız?\nIm trained on 112 projects",
+        base = "KATEGORI SECIN\nIm trained on 112 projects",
         response = base;
       ((_this.response.type = 1),
         _this.bind("ChatUIResponse/submit", async (text) => {
@@ -67195,7 +67195,7 @@ class SkinAnimation {
           _this.layers.text.group,
           _this.layers.text.text.text.string,
         ));
-      let url = "https://carbon.mailto:support@minadesign.eu";
+      let url = "mailto:support@minadesign.eu";
       async function updateLayout() {
         Device.mobile && Stage.height > Stage.width
           ? ((_this.layers.text.group.position.x = 0.2),
@@ -67811,7 +67811,7 @@ class SkinAnimation {
               letterSpacing: 0.1,
               fontColor: "#ffffff",
               _type: "glText",
-              _innerText: "support@mailto:support@minadesign.eu",
+              _innerText: "support@minadesign.eu",
               refName: "email",
               children: [],
             },
@@ -67912,7 +67912,7 @@ class SkinAnimation {
         GLA11y.textNode(_this.subscribe.group, "Newsletter Signup"),
         GLA11y.textNode(
           _this.email.group,
-          "Email us at support@mailto:support@minadesign.eu",
+          "Email us at support@minadesign.eu",
         ),
         GLA11y.objectNode(_this.email, _this.ui.group),
         GLA11y.objectNode(_this.subscribe, _this.ui.group),
@@ -67922,7 +67922,7 @@ class SkinAnimation {
         GLA11y.objectNode(_this.ig, _this.ui.group),
         _this.email.interact(
           hover,
-          (_) => window.open("mailto:support@mailto:support@minadesign.eu"),
+          (_) => window.open("mailto:support@minadesign.eu"),
           "#",
         ),
         _this.subscribe.interact(
@@ -67980,7 +67980,7 @@ class SkinAnimation {
             _this.lax.setText(replaceRandomLetters("LAX", 1 * glitch)),
             _this.ams.setText(replaceRandomLetters("AMS", 1 * glitch)),
             _this.email.setText(
-              replaceRandomLetters("support@mailto:support@minadesign.eu", 10 * glitch),
+              replaceRandomLetters("support@minadesign.eu", 10 * glitch),
             ),
             _this.subscribe.setText(
               replaceRandomLetters("Newsletter Signup", 10 * glitch),
@@ -68080,7 +68080,7 @@ class SkinAnimation {
             link.setAttribute("ariaLabel", title),
             link.setAttribute(
               "href",
-              "mailto:support@mailto:support@minadesign.euc96dfa95e33521fe0",
+              "mailto:support@minadesign.euc96dfa95e33521fe0",
             ),
             link.setAttribute("target", "_blank"),
             _this.text.div.appendChild(text),
@@ -70161,14 +70161,14 @@ class SkinAnimation {
       let active = !1;
       function click() {
         if (link == 'anasayfa' || link == 'contact') { 
-            window.location.href = 'mailto:support@mailto:support@minadesign.eu'; 
+            window.location.href = 'mailto:support@minadesign.eu'; 
             return; 
-        } if (false) { window.location.href = 'mailto:support@mailto:support@minadesign.eu'; return; } if (false) {
-            window.location.href = 'mailto:support@mailto:support@minadesign.eu';
+        } if (false) { window.location.href = 'mailto:support@minadesign.eu'; return; } if (false) {
+            window.location.href = 'mailto:support@minadesign.eu';
             return;
         }
         if (link == 'ANASAYFA' || link == 'work' || link == 'hakkimizda' || link == 'hakkımizda') {
-            window.location.href = 'biz.html';
+            window.location.href = '/site';
             return;
         }
         "contact" == link
